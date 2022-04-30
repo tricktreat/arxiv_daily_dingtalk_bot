@@ -1,0 +1,19 @@
+ARXIV_NEW_URL: "https://arxiv.org/list/{}/new"
+
+DOMAIN_KEYWORDS:
+  'cs.cv':
+    - 'Object Detection'
+    - 'Human-Object Interaction'
+  'cs.cl':
+    - 'Named Entity Recognition'
+    - 'Relation Extraction'
+
+DINGTALK_TOKEN: xxx
+
+PROXY:
+  'https': xxx
+
+EXTERNAL_URL: xxx
+
+# DEEPL_KEY:
+#   - xxxxx
